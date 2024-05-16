@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=
+comment1.target=Principal()
+comment2.params=nome\ data\ horario\ descricao\ precoIngresso\ capacidadeTotal
+comment2.target=void\ cadastrarEvento(java.lang.String,\ java.util.Date,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=void\ listarEventos()
+comment4.params=nomeEvento\ quantidadeIngressos\ cliente
+comment4.target=boolean\ venderIngressos(java.lang.String,\ int,\ Cliente)
+numComments=5
